@@ -1,11 +1,11 @@
 {
-  "name": "pluto-sprity-webpack-plugin",
-  "version": "0.0.3",
+  "name": "nuhchun-sprity-webpack-plugin",
+  "version": "0.0.4",
   "description": "一个用于生成精灵图的webpack插件",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/plutoLam/pluto-sprity-webpack-plugin"
+    "url": "https://github.com/huihuilang53/sprity-webpack-plugin"
   },
   "keywords": [
     "webpack",
